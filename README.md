@@ -18,4 +18,4 @@ MPG = 9.6178 + 2.9358 * AM - 3.9165 * WT + 1.2259 * QSEC
 
 This model explains 84% of the variance in miles per gallon.
 
-To use the app to predict MPG, you need to input the transmission type, weight and accelaration speed. The app will show the predicted MPG after clicking the Submit button.
+To use the app to predict MPG, you need to input the transmission type, weight and acceleration speed. The app will show the predicted MPG after clicking the Submit button.
