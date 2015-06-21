@@ -5,10 +5,10 @@ DataProducts_ShinyApp
 This peer assessed assignment has two parts -
 
 1. Create a Shiny application and deploy it on Rstudio's servers
-2. Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
+2. Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about the application.
 
 # The Shiny Application: Predict MPG
-This is a simple Shiny app to predict miles per gallon (MPG) by transmission type (AM), weight (WT) and accelaration speed (QSEC).
+This is a simple Shiny app to predict miles per gallon (MPG) by transmission type (AM), weight (WT) and acceleration speed (QSEC).
 
 The app is based on a multivariate regression model for the Regression Models Course.
 
